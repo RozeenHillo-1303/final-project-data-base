@@ -1,0 +1,4 @@
+C:\cpp\mysql-with-cpp-master\x64\Debug\bookstore.exe
+C:\cpp\mysql-with-cpp-master\x64\Debug\bookstore.pdb
+C:\Users\rozee\Desktop\FinalProjectSql\code_CPP\x64\Debug\bookstore.exe
+C:\Users\rozee\Desktop\FinalProjectSql\code_CPP\x64\Debug\bookstore.pdb
